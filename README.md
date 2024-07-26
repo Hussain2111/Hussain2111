@@ -1,4 +1,4 @@
-[![MasterHead](https://www.uakron.edu/statistics/images/data-science-banner.jpg?language_id=1)]
+![MasterHead](https://www.uakron.edu/statistics/images/data-science-banner.jpg?language_id=1)
 
 <h1 align="center">Hi 👋, I'm Syed Ali Hussain</h1>
 <h3 align="center">Aspiring Data Scientist and student</h3>
