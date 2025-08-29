@@ -42,4 +42,4 @@ Currently, I do not have any blog posts to share, but stay tuned as I continue t
 
 ## Connect with Me
 
-{"linkedin":"https://www.linkedin.com/in/syed-alihussain/"}
+<a href="https://www.linkedin.com/in/syed-alihussain/" target="_blank" rel="noopener noreferrer"><Icon /> Linkedin</a>
