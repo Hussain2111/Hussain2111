@@ -8,7 +8,7 @@ I hold a BSc in Computer Science (First Class) from the University of Kent. I am
 
 ## Skills & Technologies
 
-flask,docker,nodejs,react,fastapi,git,mongodb,postgres,html,css
+[![My Skills](https://skillicons.dev/icons?i=flask,docker,nodejs,react,fastapi,git,mongodb,postgres,html,css&perline=8)](https://skillicons.dev)
 
 ## Top Projects
 
