@@ -12,11 +12,12 @@ I hold a BSc in Computer Science (First Class) from the University of Kent. I am
 
 ## Top Projects
 
-- [Ml-Hospital-Predictor](https://github.com/Hussain2111/Ml-Hospital-Predictor): NHS Hospital Readmission Prediction System using machine learning. ⭐ 0 stars | Language: Python | Forks: 0 | Issues: 0
-- [Comeback_CATZ](https://github.com/Hussain2111/Comeback_CATZ): A 2D football-themed Unity mini-game tackling microaggressions through gameplay. ⭐ 0 stars | Language: ShaderLab | Forks: 0 | Issues: 0
-- [Stock-Market-Predictor-Platform](https://github.com/Hussain2111/Stock-Market-Predictor-Platform): A platform for stock market predictions. ⭐ 0 stars | Language: Jupyter Notebook | Forks: 0 | Issues: 0
-- [Scoreboard](https://github.com/Hussain2111/Scoreboard): A sports scoreboard application. ⭐ 0 stars | Language: TypeScript | Forks: 0 | Issues: 0
-- [Faker_Data_Generator](https://github.com/Hussain2111/Faker_Data_Generator): A TypeScript tool for generating dummy data using Faker.js. ⭐ 0 stars | Language: TypeScript | Forks: 0 | Issues: 0
+[![Ml-Hospital-Predictor](https://github-readme-stats.vercel.app/api/pin/?username=Hussain2111&repo=Ml-Hospital-Predictor&theme=dark)](https://github.com/Hussain2111/Ml-Hospital-Predictor)
+[![Comeback_CATZ](https://github-readme-stats.vercel.app/api/pin/?username=Hussain2111&repo=Comeback_CATZ&theme=dark)](https://github.com/Hussain2111/Comeback_CATZ)
+[![Stock-Market-Predictor-Platform](https://github-readme-stats.vercel.app/api/pin/?username=Hussain2111&repo=Stock-Market-Predictor-Platform&theme=dark)](https://github.com/Hussain2111/Stock-Market-Predictor-Platform)
+[![Scoreboard](https://github-readme-stats.vercel.app/api/pin/?username=Hussain2111&repo=Scoreboard&theme=dark)](https://github.com/Hussain2111/Scoreboard)
+[![Faker_Data_Generator](https://github-readme-stats.vercel.app/api/pin/?username=Hussain2111&repo=Faker_Data_Generator&theme=dark)](https://github.com/Hussain2111/Faker_Data_Generator)
+
 
 ## GitHub Stats
 
