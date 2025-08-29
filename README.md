@@ -20,11 +20,11 @@ I hold a BSc in Computer Science (First Class) from the University of Kent. I am
 
 
 ## GitHub Stats
-
 🌟 Public Repositories: 14
 👥 Followers: 0
 🔗 Following: 2
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hussain2111&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hussain2111&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Recent Activity
 
